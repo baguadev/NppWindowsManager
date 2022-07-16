@@ -1,9 +1,9 @@
 ﻿// NPP plugin platform for .Net v0.94.00 by Kasper B. Graversen etc.
 using System;
 using System.Runtime.InteropServices;
-using Gdi.TabsManager;
 using Kbg.NppPluginNET.PluginInfrastructure;
 using NppPlugin.DllExport;
+using Gdi.TabsManager;
 
 namespace Kbg.NppPluginNET
 {

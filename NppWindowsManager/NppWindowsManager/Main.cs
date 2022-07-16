@@ -16,7 +16,7 @@ namespace Gdi.TabsManager
         static string iniFilePath = null;
         static bool someSetting = false;
         static frmWindowsListDlg frmMyDlg = null;
-        static int idMyDlg = -1;
+        static internal int idMyDlg = -1;
         static Bitmap tbBmp = NppWindowsManager.Properties.Resources.star;
         static Bitmap tbBmp_tbTab = NppWindowsManager.Properties.Resources.star_bmp;
         static Icon tbIcon = null;
